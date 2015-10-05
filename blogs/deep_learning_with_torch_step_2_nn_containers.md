@@ -4,7 +4,7 @@ The Long way of Deep Learning with Torch: part 2
 
 -------------------------------
 
-[Containers](https://github.com/torch/nn/blob/master/doc/containers.md#nn.Containers) such as [Module](https://github.com/torch/nn/blob/master/doc/module.md#nn.Module) is an abstract class that defines the main functions that must be inherited from concrete classes.
+[Container](https://github.com/torch/nn/blob/master/doc/containers.md#nn.Containers), similarly to [Module](https://github.com/torch/nn/blob/master/doc/module.md#nn.Module), is the abstract class defining the base methods inherited from concrete containers.
 
 The main functions of `Container` are:
 
